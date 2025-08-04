@@ -1,0 +1,18 @@
+{
+  "user": { "name": "Diego", "height": 183, "weight": 80, "goalWeight": 77 },
+  "weeklySchedule": [
+    { "day": "Lunes", "time": "06:15", "activity": "NutriBrain pre-entreno", "detail": "1 cápsula" },
+    { "day": "Martes", "time": "07:00", "activity": "Entrenamiento", "detail": "Piernas" }
+  ],
+  "shoppingList": [
+    { "product": "Avena", "quantity": "560 g" },
+    { "product": "Bananas", "quantity": "6 unidades" }
+  ],
+  "workoutCalendar": [],
+  "routines": {
+    "FullA": [],
+    "FullB": [],
+    "Push": []
+  },
+  "supplements": []
+}
